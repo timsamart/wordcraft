@@ -58,3 +58,11 @@ Generated-in-code art is original and has no file to list: the UI icon set (`cra
 | `docs/brand/artcraft-mark.png` | ArtCraft Team | craftrules `assets/brand/` | ArtCraft trademark, `docs/brand/LICENSE-brand.txt` | Not open source; usable unmodified only |
 | `docs/brand/artcraft-mark.svg` | ArtCraft Team | craftrules `assets/brand/` | ArtCraft trademark, `docs/brand/LICENSE-brand.txt` | Not open source; usable unmodified only |
 | craft-fonts (optional build input, not files in this repo): BIZ UDPGothic, BIZ UDMincho, Shippori Mincho | see https://github.com/storytold/craft-fonts/blob/main/ATTRIBUTION.md | embedded only when built with `CRAFT_FONTS_DIR` (all official releases) | OFL-1.1 | Japanese UI and document fallback |
+
+## Independent custom desktop icons
+
+| Path | Title | Creator | Source | Licence | Added | Modifications |
+|---|---|---|---|---|---|---|
+| `custom-icons/` | WordCraft custom shortcut icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work; `custom-icons/generation-prompt.txt` | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted from one sheet; resized and packaged with Pillow |
+| `custom-icons/wordcraft.png` | Custom desktop icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted and resized with Pillow |
+| `custom-icons/wordcraft.ico` | Custom desktop icon | @timsamart (AI-assisted with OpenAI imagegen) | Original generated work | MIT (`custom-icons/LICENSE.txt`) | 2026-10-09 | Extracted and resized with Pillow |
